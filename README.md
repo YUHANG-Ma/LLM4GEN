@@ -1,6 +1,6 @@
 <h1>LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation</h1>
 
-Mushui Liu<sup>12*</sup> · Yuhang Ma<sup>2*</sup> · Xinfeng Zhang<sup>2</sup> · Zhen Yang<sup>1</sup> · Zeng Zhao<sup>2✉</sup> · Bai Liu<sup>2</sup> · Changjie Fan<sup>2</sup> · Zhipeng Hu<sup>2</sup>
+[**Mushui Liu**](https://xiaobul.github.io)<sup>12*</sup> · [**Yuhang Ma**](https://yuhang-ma.github.io/)<sup>2*</sup> · Xinfeng Zhang<sup>2</sup> · [**Zhen Yang**](https://zhenyangcs.github.io/)<sup>1</sup> · Zeng Zhao<sup>2✉</sup> · Bai Liu<sup>2</sup> · Changjie Fan<sup>2</sup> · Zhipeng Hu<sup>2</sup>
 
 
 <sup>1</sup>Zhejiang University <sup>2</sup>Fuxi AI Lab, NetEase Inc
