@@ -17,6 +17,7 @@ This paper proposes a framework called LLM4GEN, which enhances the semantic unde
 
 ## Updates
 - [2025/01/07] Released Inference Code and Pretrained Models of SD1.5.
+- [2024/12/10] 🔥 Our paper is accepted by AAAI-2025.
 - [2024/07/03] Code and pretrained models are coming soon.
 - [2024/06/30] 🔥 We release the [paper](https://arxiv.org/pdf/2407.00737) and the [project page](https://xiaobul.github.io/LLM4GEN/).
 
