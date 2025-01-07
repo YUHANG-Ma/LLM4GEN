@@ -1,4 +1,4 @@
-<h1>LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation</h1>
+<h1>[AAAI-2025] LLM4GEN: Leveraging Semantic Representation of LLMs for Text-to-Image Generation</h1>
 
 [**Mushui Liu**](https://xiaobul.github.io)<sup>12*</sup> · [**Yuhang Ma**](https://yuhang-ma.github.io/)<sup>2*</sup> · Xinfeng Zhang<sup>2</sup> · [**Zhen Yang**](https://zhenyangcs.github.io/)<sup>1</sup> · Zeng Zhao<sup>2✉</sup> · Bai Liu<sup>2</sup> · Changjie Fan<sup>2</sup> · Zhipeng Hu<sup>2</sup>
 
